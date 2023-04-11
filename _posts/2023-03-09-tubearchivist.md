@@ -1,5 +1,5 @@
+
 ---
-  GNU nano 5.4                                     2023-03-24-ncdocker.md                                               ---
 title: TubeArchivist with Docker Compose
 date: 2023-03-09 12:00:00 -500
 categories: [lab]
