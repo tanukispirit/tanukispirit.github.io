@@ -8,7 +8,7 @@ tags: [pi, tubearchivist, docker, docker-compose]
 # Install TubeArchivist with Docker Compose
 ## Steps to install on Raspberry Pi (64bit)
 
-```docker compose
+```Dockerfile
 
 version: '3.3'
 
